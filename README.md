@@ -12,6 +12,7 @@
 - 📍 Based in **Bengaluru, India**.
  <hr>
 
+<br>
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div width="100%" align="center">
@@ -30,6 +31,8 @@
       <img width="400px" align="center" src="https://github-readme-streak-stats-phi.vercel.app/?user=rishi-msrit&theme=radical&hide_border=true" alt="Streak Stats" />
   </picture>
 </a>
+
+<br><br>
 
 <h2 align="center">Language & Coding Activity</h2>
 
@@ -55,6 +58,8 @@
 </div>
 
 
+<br>
+
 <h2 align="center">📌 Pinned Repositories</h2>
 
 <div width="100%" align="center">
@@ -75,8 +80,9 @@
   </a>
 </div>
 
-<h2 align="center">🛠️ Tech Stack</h2>
 
+<br>
+<h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
  <p align="center">
   <a href="https://skillicons.dev">
@@ -100,6 +106,9 @@
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" alt="LangChain" title="LangChain"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/google_earth_engine.png" alt="Google Earth Engine" title="Google Earth Engine"/></code>
 </div>
+
+<br>
+
 <h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
     <img 
@@ -107,3 +116,15 @@
         width="95%"
     />
 </div>
+
+<br>
+<br>
+<div align="center">
+  <a href="https://github.com/rishi-msrit?tab=repositories" target="_blank">
+    <img  src="https://img.shields.io/badge/→ View_All_Repositories-ff79c6?style=for-the-badge&logo=github&logoColor=white"  width="350px" height="60px" />
+  </a>
+</div>
+
+
+
+
