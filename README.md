@@ -1,6 +1,6 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Rishi!
-<img align="right" width="35%" src="Assets/gif.gif">
+<img align="right" width="35%" src="Assets/giffy.gif">
 
 <h3>ML & Electronics Enthusiast from India</h3>
 
