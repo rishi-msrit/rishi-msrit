@@ -51,9 +51,24 @@
     alt="LeetCode Stats" />
   </picture>
 </a>
-
-
-
-
 </div>
 
+<h2 align="center">📌 Pinned Repositories</h2>
+
+<div width="100%" align="center">
+ <a href="[Football Player Pitch Heatmap Generator](https://github.com/rishi-msrit/football-player-heatman-generator)">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rishi-msrit&repo=football-player-heatman-generator&layout=compact&theme=radical&hide_border=true&show_owner=false&description_lines_count=2" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rishi-msrit&repo=football-player-heatman-generator&layout=compact&show_owner=false&description_lines_count=2" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishi-msrit&repo=football-player-heatman-generator&layout=compact&theme=radical&hide_border=true&show_owner=false&description_lines_count=2" alt="Pinned Repo" />
+    </picture>
+  </a>
+
+  <a href="https://github.com/rishi-msrit/dsp-audio-noise-removal">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rishi-msrit&repo=dsp-audio-noise-removal&layout=compact&theme=radical&hide_border=true&show_owner=false&description_lines_count=2" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rishi-msrit&repo=dsp-audio-noise-removal&layout=compact&show_owner=false&description_lines_count=2" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishi-msrit&repo=dsp-audio-noise-removal&layout=compact&theme=radical&hide_border=true&show_owner=false&description_lines_count=2" alt="Pinned Repo" />
+    </picture>
+  </a>
+</div>
