@@ -121,7 +121,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/rishi-msrit?tab=repositories" target="_blank">
-    <img  src="https://img.shields.io/badge/→ View_All_Repositories-ff79c6?style=for-the-badge&logo=github&logoColor=white"  width="350px" height="60px" />
+    <img  src="https://img.shields.io/badge/View_All_Repositories-ff79c6?style=for-the-badge&logo=github&logoColor=white"  width="350px" height="60px" />
   </a>
 </div>
 
