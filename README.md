@@ -1,6 +1,6 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Rishi!
-<img align="right" width="35%" src="Assets/giffy.gif">
+<img align="right" width="35%" src="Assets/gif.gif">
 
 <h3>ML & Electronics Enthusiast from India</h3>
 
@@ -99,4 +99,11 @@
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" alt="LangChain" title="LangChain"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/google_earth_engine.png" alt="Google Earth Engine" title="Google Earth Engine"/></code>
+</div>
+<h2 align="center">📈 Contribution Graph 📈</h2>
+<div align="center">
+    <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=rishi-msrit&bg_color=141321&color=ffffff&line=8be9fd&point=ffffff&area_color=8be9fd&area=false&hide_border=true" 
+        width="95%"
+    />
 </div>
