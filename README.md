@@ -1,3 +1,5 @@
+<img align="right" width="30%" src="Assets/gif.gif">
+
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Rishi!
 <h3>ML & Electronics Enthusiast from India</h3>
 
