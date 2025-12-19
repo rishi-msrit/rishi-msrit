@@ -31,27 +31,27 @@
 
 <h2 align="center">Language & Coding Activity</h2>
 
-<div width="100%" align="center">
-  <a href="https://github.com/rishi-msrit">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-msrit&layout=compact&theme=dark&hide_border=true&langs_count=14&size_weight=0.9&count_weight=0.5" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-msrit&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-msrit&layout=compact&theme=radical&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-    </picture>
-  </a>
+<div align="center" style="display: flex; justify-content: center;align-items:flex-start; gap: 20px;">
 
-<a href="https://leetcode.com/Rishi_Raj_Roy/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-    srcset="https://leetcard.jacoblin.cool/Rishi_Raj_Roy?theme=radical&border=0&compact=true&hide=rank,progress,circle,heatmap&background=141321" />
-    <source media="(prefers-color-scheme: light)" 
-    srcset="https://leetcard.jacoblin.cool/Rishi_Raj_Roy?theme=light&border=0&compact=true&hide=rank,progress,circle,heatmap" />
-    <img align="center" width="350px"
-    src="https://leetcard.jacoblin.cool/Rishi_Raj_Roy?theme=radical&border=0&compact=true&hide=rank,progress,circle,heatmap&background=141321"
-    alt="LeetCode Stats" />
-  </picture>
-</a>
+  <div>
+    <a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-msrit&layout=compact&theme=dark&bg_color=101010&hide_border=true&langs_count=14&size_weight=0.5&count_weight=0.5" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-msrit&layout=compact&langs_count=14&size_weight=0.5&count_weight=0.5" />
+        <img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-msrit&layout=compact&theme=black&hide_border=true&bg_color=101010&border_radius=0&langs_count=14&size_weight=0.5&count_weight=0.5" />
+      </picture>
+    </a>
+     <a>
+       <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/Rishi_Raj_Roy?theme=radical&border=0&compact=true&hide=rank,progress,circle,heatmap&background=141321" />
+         <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/Rishi_Raj_Roy?theme=light&border=0&compact=true&hide=rank,progress,circle,heatmap" />
+         <img width="410px" src="https://leetcard.jacoblin.cool/Rishi_Raj_Roy?theme=radical&border=0&compact=true&border_radius=0&width=420&hide=rank,progress,circle,heatmap&background=141321" />
+       </picture>
+     </a>
+   </div>
+
 </div>
+
 
 <h2 align="center">📌 Pinned Repositories</h2>
 
@@ -60,7 +60,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rishi-msrit&repo=football-player-heatman-generator&layout=compact&theme=radical&hide_border=true&show_owner=false&description_lines_count=2" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rishi-msrit&repo=football-player-heatman-generator&layout=compact&show_owner=false&description_lines_count=2" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishi-msrit&repo=football-player-heatman-generator&layout=compact&theme=radical&hide_border=true&show_owner=false&description_lines_count=2" alt="Pinned Repo" />
+      <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=rishi-msrit&repo=football-player-heatman-generator&layout=compact&theme=radical&hide_border=true&show_owner=false&description_lines_count=2" alt="Pinned Repo" />
     </picture>
   </a>
 
@@ -68,7 +68,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rishi-msrit&repo=dsp-audio-noise-removal&layout=compact&theme=radical&hide_border=true&show_owner=false&description_lines_count=2" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=rishi-msrit&repo=dsp-audio-noise-removal&layout=compact&show_owner=false&description_lines_count=2" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rishi-msrit&repo=dsp-audio-noise-removal&layout=compact&theme=radical&hide_border=true&show_owner=false&description_lines_count=2" alt="Pinned Repo" />
+      <img align="justify" src="https://github-readme-stats.vercel.app/api/pin/?username=rishi-msrit&repo=dsp-audio-noise-removal&layout=compact&theme=radical&hide_border=true&show_owner=false&description_lines_count=2" alt="Pinned Repo" />
     </picture>
   </a>
 </div>
