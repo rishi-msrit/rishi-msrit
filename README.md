@@ -111,10 +111,7 @@
 
 <h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
-    <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=rishi-msrit&bg_color=141321&color=ffffff&line=8be9fd&point=ffffff&area_color=8be9fd&area=false&hide_border=true" 
-        width="95%"
-    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishi-msrit&bg_color=141321&color=ffffff&line=8be9fd&point=ffffff&area_color=8be9fd&area=false&hide_border=true"  width="95%"/>
 </div>
 
 <br>
