@@ -60,7 +60,7 @@
 <div align="center">
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,ps,pr,linux,git,github,raspberrypi,arduino,matlab,pytorch,opencv,sklearn,anaconda&perline=15" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,firebase,mysql,sqlite,linux,git,github,raspberrypi,arduino,matlab,pytorch,opencv,sklearn,anaconda&perline=16" />
   </a>
  </p>
 </div>
