@@ -32,7 +32,12 @@
     </picture>
   </a>
 
-	
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/rishi-msrit?tab=repositories" target="_blank">
+    <img  src="https://img.shields.io/badge/View_All_Repositories-ff79c6?style=for-the-badge&logo=github&logoColor=white"  width="350px" height="60px" />
+  </a>
 </div>
 
 <br>
@@ -65,7 +70,7 @@
 
 <h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishi-msrit&bg_color=141321&color=ffffff&line=8be9fd&point=ffffff&area_color=8be9fd&area=false&hide_border=true"  width="65%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishi-msrit&bg_color=141321&color=ffffff&line=8be9fd&point=ffffff&area_color=8be9fd&area=false&hide_border=true"  width="50%"/>
 </div>
 <br>
 <h2 align="center"> Stats</h2>
@@ -74,7 +79,7 @@
 
   <!-- Streak Stats -->
   <a href="https://github.com/rishi-msrit">
-    <img width="600px"
+    <img width="500px"
       src="https://github-readme-streak-stats-phi.vercel.app/?user=rishi-msrit&theme=radical&hide_border=true"
       alt="Streak Stats" />
   </a>
@@ -83,12 +88,6 @@
 </div>
 
 <br>
-<br>
-<div align="center">
-  <a href="https://github.com/rishi-msrit?tab=repositories" target="_blank">
-    <img  src="https://img.shields.io/badge/View_All_Repositories-ff79c6?style=for-the-badge&logo=github&logoColor=white"  width="350px" height="60px" />
-  </a>
-</div>
 
 
 
