@@ -19,17 +19,11 @@
 
   <!-- Streak Stats -->
   <a href="https://github.com/rishi-msrit">
-    <img width="400px"
+    <img width="700px"
       src="https://github-readme-streak-stats-phi.vercel.app/?user=rishi-msrit&theme=radical&hide_border=true"
       alt="Streak Stats" />
   </a>
 
-  <!-- LeetCode Card -->
-  <a href="https://leetcode.com/Rishi_Raj_Roy/">
-    <img width="400px"
-      src="https://leetcard.jacoblin.cool/Rishi_Raj_Roy?theme=radical&border=0&compact=true&hide=rank,progress,circle,heatmap&background=141321"
-      alt="LeetCode Stats" />
-  </a>
 
 </div>
 
