@@ -1,15 +1,15 @@
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Rishi!
+# Hey, I'm Rishi!
 <img align="right" width="35%" src="Assets/gif.gif">
 
 <h3>ML & Electronics Enthusiast from India</h3>
 
-- 👨‍💻 Exploring **Machine Learning & Electronics** across multiple domains.  
-- 🧠 Interested in building **software, hardware, and intelligent systems**.  
-- 🏫 Pursuing a Bachelor's Degree in **Electronics and Telecommunications Engg**.  
-- 📚 Skilled in **programming, system design, and research-driven development**.  
-- 📧 Reach me via [**Email**](mailto:rishi.msrit@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/rishi-msrit/).
-- 📍 Based in **Bengaluru, India**.
+-  Exploring **Machine Learning & Electronics** across multiple domains.  
+-  Interested in building **software, hardware, and intelligent systems**.  
+-  Pursuing a Bachelor's Degree in **Electronics and Telecommunications Engg**.  
+-  Skilled in **programming, system design, and research-driven development**.  
+-  Reach me via [**Email**](mailto:rishi.msrit@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/rishi-msrit/).
+-  Based in **Bengaluru, India**.
  <hr>
 <br>
 
