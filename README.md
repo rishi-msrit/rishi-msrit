@@ -1,6 +1,5 @@
 
 # Hey, I'm Rishi!
-<img align="right" width="35%" src="Assets/gif.gif">
 
 <h3>ML & Electronics Enthusiast from India</h3>
 
