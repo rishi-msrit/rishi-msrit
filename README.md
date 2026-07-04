@@ -23,10 +23,10 @@
     </picture>
   </a>
 
-<a href="https://github.com/rishi-msrit/football-player-heatman-generator">
+<a href="https://github.com/rishi-msrit/medsafe">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-blond-eta-74.vercel.app/api/pin/?username=rishi-msrit&repo=football-player-heatman-generator&layout=compact&theme=radical&hide_border=true&show_owner=false&description_lines_count=2&v=1" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-blond-eta-74.vercel.app/api/pin/?username=rishi-msrit&repo=football-player-heatman-generator&layout=compact&show_owner=false&description_lines_count=2&v=1" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-blond-eta-74.vercel.app/api/pin/?username=rishi-msrit&repo=medsafe&layout=compact&theme=radical&hide_border=true&show_owner=false&description_lines_count=2&v=1" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-blond-eta-74.vercel.app/api/pin/?username=rishi-msrit&repo=medsafe&layout=compact&show_owner=false&description_lines_count=2&v=1" />
       <img align="justify" src="https://github-readme-stats-blond-eta-74.vercel.app/api/pin/?username=rishi-msrit&repo=football-player-heatman-generator&layout=compact&theme=radical&hide_border=true&show_owner=false&description_lines_count=2&v=1" alt="Pinned Repo" />
     </picture>
   </a>
