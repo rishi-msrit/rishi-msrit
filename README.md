@@ -151,7 +151,7 @@ const rishi = {
 
 <div align="center">
 
-*I like both the icon packs (Though this one do has few that above one does have!!)*
+*I like both the icon packs (Though below one do have few that above one doesn't!!)*
 
 ![C](https://img.shields.io/badge/C-1a1625?style=for-the-badge&logo=c&logoColor=e0aaff)
 ![C++](https://img.shields.io/badge/C++-1a1625?style=for-the-badge&logo=cplusplus&logoColor=e0aaff)
