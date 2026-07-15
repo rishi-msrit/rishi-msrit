@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff8fd1,c084fc,60a5fa&height=180&section=header&text=Rishi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Electronics%20Engineer%20·%20AI%20%2F%20ML%20Builder%20·%20Software%20Developer&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff8fd1,c084fc,60a5fa&height=180&section=header&text=Rishi%20Raj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Electronics%20Engineer%20·%20AI%20%2F%20ML%20Builder%20·%20Software%20Developer&descAlignY=55&descSize=16"/>
 
 <br/>
 
@@ -151,7 +151,7 @@ const rishi = {
 
 <div align="center">
 
-*Same full stack, as labeled badges instead of icons:*
+*I liked both the icon packs (Though this one do has few that above one does have!!)*
 
 ![C](https://img.shields.io/badge/C-1a1625?style=for-the-badge&logo=c&logoColor=e0aaff)
 ![C++](https://img.shields.io/badge/C++-1a1625?style=for-the-badge&logo=cplusplus&logoColor=e0aaff)
