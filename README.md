@@ -2,19 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff8fd1,c084fc,60a5fa&height=180&section=header&text=Rishi%20Raj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20·%20AI%20%2F%20ML%20Builder%20·%20Electronics%20Engineer&descAlignY=55&descSize=16"/>
 <br/>
-<a href="https://rishi-msrit.vercel.app/">
+<a href="https://rishi-msrit.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-e0aaff?style=for-the-badge&logo=vercel&logoColor=1a1625"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/rishi-msrit/">
+<a href="https://www.linkedin.com/in/rishi-msrit/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-1a1625?style=for-the-badge&logo=linkedin&logoColor=e0aaff"/>
 </a>
 &nbsp;
-<a href="mailto:rishi.msrit@gmail.com">
+<a href="mailto:rishi.msrit@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-1a1625?style=for-the-badge&logo=gmail&logoColor=e0aaff"/>
 </a>
 &nbsp;
-<a href="https://github.com/rishi-msrit?tab=repositories">
+<a href="https://github.com/rishi-msrit?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/%F0%9F%8C%90%20All%20Repos-1a1625?style=for-the-badge&labelColor=e0aaff&color=1a1625"/>
 </a>
 &nbsp;
