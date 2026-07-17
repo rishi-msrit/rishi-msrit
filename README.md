@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff8fd1,c084fc,60a5fa&height=180&section=header&text=Rishi%20Raj&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20·%20AI%20%2F%20ML%20Builder%20·%20Electronics%20Engineer&descAlignY=55&descSize=16"/>
 <br/>
-<a href="">
+<a href="https://rishi-msrit.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-e0aaff?style=for-the-badge&logo=vercel&logoColor=1a1625"/>
 </a>
 &nbsp;
