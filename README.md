@@ -89,7 +89,7 @@ const rishi = {
 
 [![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-e0aaff?style=for-the-badge&logoColor=black)](https://bengaluruflow.streamlit.app/) [![Source](https://img.shields.io/badge/SOURCE-1a1625?style=for-the-badge&logo=github&logoColor=e0aaff)](https://github.com/rishi-msrit/bengaluruflow)
 
-> Forecasts traffic and flags anomalies on the Bangalore traffic dataset using LSTM and Transformer models.
+> Forecasts traffic and flags anomalies on the Bangalore traffic dataset using LSTM and Transformer models with anomaly detection across all the layers on top of forecasts.
 
 **🔬 Key Innovations**
 - LSTM and Transformer forecasting models
@@ -102,20 +102,18 @@ const rishi = {
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Sync Buck Converter Design
-**DC-DC Step-Down Switching Converter**
+### ⚡ Corporate Actions Consistency Engine
+**Stock Price Divergence Pipeline**
 
-[![Source](https://img.shields.io/badge/SOURCE-1a1625?style=for-the-badge&logo=github&logoColor=e0aaff)](https://github.com/rishi-msrit/sync-buck-converter-design)
-
-> A synchronous buck converter built around the TPS5430, stepping a higher input voltage down to a regulated output at high efficiency.
+[![Live Demo](https://img.shields.io/badge/▶_LIVE_DEMO-e0aaff?style=for-the-badge&logoColor=black)](https://ca-analytics.vercel.app/) [![Source](https://img.shields.io/badge/SOURCE-1a1625?style=for-the-badge&logo=github&logoColor=e0aaff)](https://github.com/rishi-msrit/ca-analytics)
+> A pipeline that re-derives stock price adjustments against Yahoo Finance's own adjusted series, flagging divergences and quantifying their impact on real return calculations.
 
 **🔬 Key Innovations**
-- TPS5430-based synchronous topology
-- Full schematic and PCB design in KiCad
-- Pre-fabrication verification in LTspice
-- Efficiency and ripple analysis across load conditions
+- From-scratch backward adjustment algorithm validated against Yahoo's internal Adj Close
+- 80-stock universe spanning Nifty 50, S&P 500, and global large-caps
+- Divergence-to-return-error quantification, not just flagging
 
-**Stack:** `TPS5430` `KiCad` `LTspice`
+**Stack:** `Next.js` `PostgreSQL` `Python` `GitHub Actions`
 
 </td>
 </tr>
@@ -127,6 +125,8 @@ const rishi = {
 
 | Project | What it does | Stack |
 |:---|:---|:---:|
+| **[market-fault-isolation](https://github.com/rishi-msrit/market-fault-isolation)** | Simulated market data feed with fault injection, DB failover, and root-cause isolation across four distinct failure states | `Python` `FastAPI` `PostgreSQL` `Docker` |
+| **[sync-buck-converter-design](https://github.com/rishi-msrit/sync-buck-converter-design)** | TPS5430-based synchronous DC-DC step-down converter with efficiency and ripple analysis | `TPS5430` `KiCad` `LTspice`|
 | **[dc-motor-pid-controller](https://github.com/rishi-msrit/dc-motor-pid-controller)** | Closed-loop position and speed controller for DC motors | `STM32F103` `C++` |
 | **[thermal-pid-controller](https://github.com/rishi-msrit/thermal-pid-controller)** | Closed-loop temperature controller with Tustin discretization | `Arduino` `Python` |
 | **[smart-walking-cane](https://github.com/rishi-msrit/smart-walking-cane)** | Assistive device for visually impaired navigation, obstacle detection and real-time alerts | `Arduino Uno` `Embedded C` |
@@ -135,7 +135,10 @@ const rishi = {
 | **[signal-processing-using-TDMA-and-PCM](https://github.com/rishi-msrit/signal-processing-using-TDMA-and-PCM)** | Simulations of TDMA and TDM with PCM, channel sharing and sync effects | `Python` |
 | **[dsp-audio-noise-removal](https://github.com/rishi-msrit/dsp-audio-noise-removal)** | Audio noise removal via digital signal processing filtering | `Python` |
 
----
+</td>
+</tr>
+</table>
+
 
 ## Tech Arsenal
 
