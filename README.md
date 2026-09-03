@@ -28,13 +28,11 @@
 
 ```typescript
 const rishi = {
-  role       : "Electronics Engineer & AI/ML Builder",
-  domains    : ["Embedded systems", "RF and antenna design", "Control systems", "Full-stack ML"],
+  role       : "Full Stack ML Builder & Electronics Engineer",
+  domains    : [ "Full-stack Dev", "ML and AI", "Data Analysis", "Embedded systems", "RF and antenna design"],
   approach   : ["Understand before you ship", "Closed-loop thinking", "From-scratch where it counts"],
-  currently  : ["GNN-based drug interaction modeling", "Traffic forecasting with LSTM/Transformers",
-                 "Variable antenna design for wearable body-area networks"],
-  superpower : "Carrying control-theory rigor from circuits into software architecture",
-  openTo     : ["Hardware engineering roles", "SDE and ML roles", "Research collaborations"]
+  superpower : ["Carrying control-theory rigor from circuits into software architecture"],
+  openTo     : [ "SDE and ML roles", "Research collaborations", "Hardware engineering roles"]
 };
 ```
 
