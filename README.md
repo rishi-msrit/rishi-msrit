@@ -206,7 +206,7 @@ const rishi = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats-phi.vercel.app/?user=rishi-msrit&theme=radical&hide_border=true" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishi-msrit&bg_color=1a1625&color=ffffff&line=e0aaff&point=ffffff&area_color=e0aaff&area=false&hide_border=true" width="49%"/>
+  <img src="https://github-readme-activity-graph-gamma-tan.vercel.app/graph?username=rishi-msrit&bg_color=1a1625&color=ffffff&line=e0aaff&point=ffffff&area_color=e0aaff&area=false&hide_border=true" width="49%"/>
 </div>
 
 ---
